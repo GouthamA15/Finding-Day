@@ -90,4 +90,4 @@ let day = () => {
     }
 }
 
-console.log(`The day of the given date ${date}/${month}/${year} is ${day()}`);
+alert(`The day of the given date ${date}/${month}/${year} is ${day()}`);
